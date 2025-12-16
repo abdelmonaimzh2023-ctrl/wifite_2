@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Wifite Pro GUI
+Comment=Full GUI for Wifite2/Aircrack-ng suite
+Exec=/home/wail/Desktop/wifite_2/run_wifite.sh
+Icon=/home/wail/Desktop/wifite_2/wifite_pro_icon.png
+Terminal=true
+Categories=Network;Security;
+
