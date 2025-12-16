@@ -20,7 +20,7 @@ Installation
 
 Install the tool folder
 
-git clone 
+git clone https://github.com/abdelmonaimzh2023-ctrl/wifite_2.git
 
 
 Navigate to the tool directory
