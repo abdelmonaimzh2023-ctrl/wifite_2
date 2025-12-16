@@ -45,4 +45,7 @@ Select target networks
 
 Launch attacks automatically
 
-Monitor progress in real time
+Monitor progress in real time 
+تواصل مع الدعم 
+GMAIL:abdelmonaimzh2023@gmail.com 
+telegram:@monaimFp
